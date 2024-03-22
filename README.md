@@ -3,11 +3,10 @@
 
 If you're looking at my profile it's because you're probably interested in my projects, so let me introduce myself.
 
-My name is Franco Singh and i´am a future computer engineer. I from argentina 🟦⬜🟨⬜🟦
+My name is Franco Singh and i´am a future computer engineer. Iam from argentina 🟦⬜🟨⬜🟦
 ## 🚀 About Me
 
 I am a Jr. developer looking to specialize in projects oriented to machine learning and data science. I am also interested in developing desktop applications, both backend and frontend (I would like to be full stack)
-- ⚡ Fun fact: Aguante Rasing papaaa!!!(Iam a Rasing futbol club fan).
 
 ## 🛠 Skills
 **💻 programming languages:** Java, Python, C, C++, data analysis.
