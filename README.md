@@ -1,16 +1,30 @@
-### Hi there 👋
 
-<!--
-**francosingh5/francosingh5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello there!!!
 
-Here are some ideas to get you started:
+If you're looking at my profile it's because you're probably interested in my projects, so let me introduce myself.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is Franco Singh and i´am a future computer engineer. I from argentina 🟦⬜🟨⬜🟦
+## 🚀 About Me
+
+I am a Jr. developer looking to specialize in projects oriented to machine learning and data science. I am also interested in developing desktop applications, both backend and frontend (I would like to be full stack)
+- ⚡ Fun fact: Aguante Rasing papaaa!!!(Iam a Rasing futbol club fan).
+
+## 🛠 Skills
+**💻 programming languages:** Java, Python, C, C++, data analysis.
+
+**🗂 Frameworks:** Opencv and pandas for Python; Javafx for Java.
+
+**💬 Lenguages:** my mother lenguage is Spanish but also i can speack English
+
+
+development in Linux(preferably in Ubuntu distributions) and also in Windows
+
+
+## 🔗 Links
+
+
+![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+
+www.linkedin.com/in/franco-singh-4ba23a286)
+
+
